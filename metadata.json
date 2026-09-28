@@ -1,0 +1,6 @@
+{
+  "name": "FanaticBot",
+  "description": "Rule-based SMC algorithmic trading bot and risk guardian adhering strictly to the Technical Analysis Mastery books, featuring market structure, S&D, liquidity sweeps, trade windows, and strict money management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
